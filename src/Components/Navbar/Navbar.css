@@ -1,0 +1,13 @@
+#navbar-container {
+  width: 30vw;
+}
+
+#navbar-container button {
+  padding: 10px;
+  margin: 5px;
+  color: white;
+  background-color: rgba(35, 35, 35, .7);
+  border: 3px double #EA9A2D;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}

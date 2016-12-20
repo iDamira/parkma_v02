@@ -4,8 +4,10 @@ import './Header.css';
 
 const Header = props => (
   <div id="header-container">
+    <div id="logo">
+      <h1>PARKMA</h1>
+    </div>
     <Navbar />
-    Hello, I am Header!
   </div>
 );
 
