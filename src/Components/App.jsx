@@ -17,12 +17,12 @@ class App extends Component {
         <Header />
         <div id="app-container">
 
-            <div id="children-container">
-              {this.props.children}
-            </div>
-
             <div id="map-container">
             <Mapp />
+            </div>
+
+            <div id="children-container">
+              {this.props.children}
             </div>
 
         </div>

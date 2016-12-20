@@ -7,6 +7,7 @@
 
 #children-container {
   width: 50vw;
+  background-color: #F1EFE9;
 }
 
 #map-container {
@@ -14,4 +15,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #F1EFE9;
+/*  background-color: rgba(35, 35, 35, 1);*/
 }
